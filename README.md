@@ -8,6 +8,12 @@
    - [Real Time Messaging Protocol](https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol)
    - [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
    - [HTTP Dynamic Streaming](http://www.adobe.com/mena_en/products/httpdynamicstreaming/pdfs/httpdynamicstreaming_datasheet.pdf)
-   
+   - [Bitmessage](https://en.wikipedia.org/wiki/Bitmessage)
+   - [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
+   - [Matrix](https://en.wikipedia.org/wiki/Matrix_%28communication_protocol%29)
+   - [Signal Protocol](https://en.wikipedia.org/wiki/Signal_Protocol)
+   - [SIMPLE](https://en.wikipedia.org/wiki/SIMPLE_%28instant_messaging_protocol%29)
+   - [Tox](https://en.wikipedia.org/wiki/Tox_%28protocol%29)
+
 
 
