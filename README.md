@@ -3,3 +3,4 @@
 
    - [SWIM gossip protocol](https://www.cs.cornell.edu/~asdas/research/dsn02-swim.pdf)
    - [Jingle](http://xmpp.org/extensions/xep-0166.html)
+   - [SSL Handshake protocol](http://www.pierobon.org/ssl/ch2/hand.htm)	
