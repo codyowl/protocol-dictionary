@@ -15,5 +15,10 @@
    - [SIMPLE](https://en.wikipedia.org/wiki/SIMPLE_%28instant_messaging_protocol%29)
    - [Tox](https://en.wikipedia.org/wiki/Tox_%28protocol%29)
 
+## Cryptographic Protocols:
+## Messaging Protocols:
+## Video Streaming Protocols:
+## Web Protocols:
+
 
 
